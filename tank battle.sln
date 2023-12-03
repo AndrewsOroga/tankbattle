@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tank batl gitler kapyt", "tank batl gitler kapyt\tank batl gitler kapyt.pyproj", "{A71D2DC4-73F1-47CE-BE74-060C3B909072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A71D2DC4-73F1-47CE-BE74-060C3B909072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71D2DC4-73F1-47CE-BE74-060C3B909072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4BE412F-03CE-4F0A-A6EC-06934CCCEE5B}
+	EndGlobalSection
+EndGlobal
